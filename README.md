@@ -1,5 +1,14 @@
 # WCE-Web-Cheat-Engine
 ![alt text](WCE_Logo.png)
+
+
+
+
+
+
+
+
+
 This project is a web-based cheat engine designed for educational experimentation with browser-side value manipulation and debugging. It allows users to inspect and modify in-memory values, test scripts, and explore how game or web app data can be changed in a controlled environment. It is intended for learning and research purposes.
 WCE is a lightweight browser-based tool for experimenting with web page behavior in real time. It helps users inspect and modify values, test custom scripts, and understand how client-side code interacts with the page during runtime.
 
